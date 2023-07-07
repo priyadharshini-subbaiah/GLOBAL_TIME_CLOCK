@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.time-container {
+  display: flex;
+  margin: 5rem 2.5rem;
+
+  align-items: center;
+  justify-content: space-between;
+}
+
+@media screen and (max-width: 700px) {
+  .time-container {
+    flex-direction: column;
+    margin: 1rem 10px;
+  }
+}
