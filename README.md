@@ -1,2 +1,2 @@
-# Global_time_clockk
+# Global_time_clock
  
